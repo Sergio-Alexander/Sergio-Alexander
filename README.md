@@ -13,33 +13,6 @@
 
 
 
-<!--
-
-
-Here's a little about me:
-
-🔭 I’m currently working on **[Your Project Name]** - it's all about **[Brief Description]**.
-
-🌱 I’m currently learning **[Technology or Skill]**, always looking to improve and explore new territories.
-
-👯 I’m looking to collaborate on **[Type of Projects]**, especially if you're passionate about **[Related Fields or Technologies]**.
-
-🤔 I’m looking for help with **[Specific Challenge or Project]**. If you have expertise in **[Related Field]**, let's connect!
-
-💬 Ask me about **[Your Expertise]**, **[Your Hobbies]**, or anything you're curious about. I love to share and learn from others.
-
-📫 How to reach me: **[Your Contact Information]** - feel free to drop a message anytime!
-
-😄 Pronouns: **[Your Pronouns]**.
-
-⚡ Fun fact: **[Interesting Fact About You]**.
-
-### What I'm Focused On 🎯
-- **Highlight Project 1**: _[Brief Description]_
-- **Learning Path**: _[Current Learning Focus]_
-
--->
-
 ### Let's Connect 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-satyabrata/)
 
@@ -59,8 +32,19 @@ Here's a little about me:
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 
-![Your Favorite Language](https://img.shields.io/badge/-LanguageName-Color?style=flat-square&logo=LanguageLogo&logoColor=white)
-![Your Favorite Tool](https://img.shields.io/badge/-ToolName-Color?style=flat-square&logo=ToolLogo&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![NUnit](https://img.shields.io/badge/NUnit-25A162?style=for-the-badge&logo=nunit&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 
 
 <!-- You can add or change themes as per your preference -->
