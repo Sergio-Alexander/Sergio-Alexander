@@ -20,6 +20,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-satyabrata/)
 
 
+
+![Elmo](https://imgur.com/EAWhGlT)
+
+
+
+
 ### Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
