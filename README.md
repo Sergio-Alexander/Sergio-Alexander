@@ -10,15 +10,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sergio-Alexander&label=Profile%20views&color=0e75b6&style=flat" alt="Sergio-Alexander" />
-</p>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sergio-Alexander&show_icons=true&theme=algolia" alt="GitHub Stats" />
-</div>
+
+
+<!--
 
 
 Here's a little about me:
@@ -43,10 +38,27 @@ Here's a little about me:
 - **Highlight Project 1**: _[Brief Description]_
 - **Learning Path**: _[Current Learning Focus]_
 
+-->
+
 ### Let's Connect 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-satyabrata/)
 
 ### Languages and Tools 🛠️
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![F#](https://img.shields.io/badge/F%23-239120?style=for-the-badge&logo=f-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+
 ![Your Favorite Language](https://img.shields.io/badge/-LanguageName-Color?style=flat-square&logo=LanguageLogo&logoColor=white)
 ![Your Favorite Tool](https://img.shields.io/badge/-ToolName-Color?style=flat-square&logo=ToolLogo&logoColor=white)
 
