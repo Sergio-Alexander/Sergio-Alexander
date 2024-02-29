@@ -6,7 +6,7 @@
 **Sergio-Alexander/Sergio-Alexander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=30&duration=5000&color=FAFAFA&background=00000000&center=true&vCenter=true&width=435&lines=''Hello''There!+%2C+I'm+Sergio+Satyabrata;Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Sergio Satyabrata Welcome to my Profile!">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=30&duration=5000&color=FAFAFA&background=00000000&center=true&vCenter=true&width=435&lines=''Hello!+%2C+I'm+Sergio+Satyabrata;Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Sergio Satyabrata Welcome to my Profile!">
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
