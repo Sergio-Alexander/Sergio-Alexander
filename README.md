@@ -27,20 +27,13 @@ Here's a little about me:
 - **Learning Path**: _[Current Learning Focus]_
 
 ### Let's Connect 🤝
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](Your-Twitter-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-satyabrata/)
 
 ### Languages and Tools 🛠️
 ![Your Favorite Language](https://img.shields.io/badge/-LanguageName-Color?style=flat-square&logo=LanguageLogo&logoColor=white)
 ![Your Favorite Tool](https://img.shields.io/badge/-ToolName-Color?style=flat-square&logo=ToolLogo&logoColor=white)
 
-### Stats 📈
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sergio-Alexander&show_icons=true&theme=radical)
 
 <!-- You can add or change themes as per your preference -->
 
-### Dynamic Snake Contribution Graph 🐍
-![Snake Graph](https://github.com/Sergio-Alexander/Sergio-Alexander/blob/output/github-contribution-grid-snake.svg)
-
-<!-- This will display a dynamic snake eating your contributions graph. You need to set this up separately. -->
 
